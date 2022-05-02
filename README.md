@@ -1,7 +1,3 @@
-
-
-
-
 <h1>NLW Return</h1>
 <h3>
   Aplicação totalmente desenvolvida durante a semana do dia 02 ao dia 08 de
