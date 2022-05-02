@@ -1,4 +1,4 @@
-# Projeto que está sendo desenvolvido durante a semana do dia 02/05/2022, com o propósito de ensinar e desenvolver um  NLW_Return
+
 
 
 
