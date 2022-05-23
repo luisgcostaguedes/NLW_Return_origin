@@ -1,0 +1,47 @@
+:root {
+  font-size: 62.5%; /*1rem = 10px */
+
+  /*cores primárias*/
+
+  --brand-green-hover: #00453a;
+  --brand-green: #00856f;
+  --brand-green-light: #dce9e2;
+  --brand-green-light-02: #f7f9f9;
+  --brand-beige: #fffaf1;
+
+  /*cores secundárias*/
+  --gray-headline: #212529;
+  --gray-paragraph: #495057;
+}
+
+body {
+  font-family: "DM Sams";
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.4rem;
+  color: var(--gray-headline);
+  line-height: 130%;
+}
+h3 {
+  font-size: 4.8rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+  color: var(--brand-green);
+}
+
+p {
+  font-size: 1.8rem;
+  line-height: 150%;
+  font-weight: 400;
+  color: var(--gray-paragraph);
+}
+
+button {
+  background: var(--brand-green);
+  border: none;
+}
